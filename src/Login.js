@@ -42,6 +42,7 @@ class Login extends React.Component {
                         </Grid>
                         <Grid item xs={12}>
                             <TextField 
+                                type="password"
                                 variant="outlined"
                                 required
                                 fullWidth
